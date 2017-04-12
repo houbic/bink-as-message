@@ -16,7 +16,7 @@ dependencies {
 //    compile('org.springframework:spring-context:4.3.7.RELEASE')
     compile group: 'com.alibaba', name: 'druid', version: '1.0.29'
     compile group: 'org.mybatis.spring.boot', name: 'mybatis-spring-boot-starter', version: '1.2.0'
-    compile group: 'org.mybatis.spring.boot', name: 'spring-boot-starter-jdbc', version: '1.5.2.RELEASE'
+//    compile group: 'org.mybatis.spring.boot', name: 'spring-boot-starter-jdbc', version: '1.5.2.RELEASE'
     compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.34'
     compile group: 'org.springframework.boot', name: 'spring-boot-starter-freemarker', version: '1.5.2.RELEASE'
     compile project(':message-service-api')

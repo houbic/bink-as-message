@@ -1,0 +1,8 @@
+rootProject.name = 'com.bink-as-message'
+include 'message-main'
+include 'message-service-api'
+include 'message-services'
+include 'message-service-tools'
+include 'message-service-tools'
+include 'message-service-data'
+
